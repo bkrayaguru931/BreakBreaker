@@ -1,0 +1,42 @@
+.grid {
+    position: absolute;
+    margin-left: 430px;
+
+    width: 560px;
+    height: 300px;
+    border: solid 1px black;
+    margin-top: 120px;
+}
+
+body {
+    background-image: url("img/bg.jpg");
+    max-width: 100%;
+    height: 100%;
+}
+
+.user {
+    position: absolute;
+    border: solid black;
+    width: 100px;
+    height: 20px;
+    background-color: #e75875;
+}
+
+.block {
+    position: absolute;
+    border: solid #be1558;
+
+    width: 100px;
+    height: 20px;
+    background-color: #fbcbc9;
+}
+
+.ball {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: #26d;
+}
+
+/* Footer */
